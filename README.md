@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 Im a Student of Systems Information in PUC Minas<br>I work with c#, python, java and more !<br>I'm currently learning about ML and DL, artificial intelligence in general
 
 
