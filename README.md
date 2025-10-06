@@ -16,3 +16,78 @@ Im a Student of Systems Information in PUC Minas<br>I work with c#, python, java
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/marcomprado"> 🔗
+  https://gitfollio.vercel.app/marcomprado
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Marco Martinelli do Carmo Prado",
+  "email": "",
+  "tagline": "Python software engineer",
+  "avatar_url": "https://avatars.githubusercontent.com/u/207766130?v=4",
+  "website": "",
+  "githubUser": "marcomprado",
+  "linkedinUser": "",
+  "about": "",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 3,
+  "following": 5,
+  "themeId": "minimal",
+  "tech": [
+  "C#,.net,python"
+],
+  "projects": [
+  {
+    "id": 1029179473,
+    "repoName": "BGDSS",
+    "url": "https://github.com/marcomprado/BGDSS",
+    "stars": 0,
+    "description": "Sistema especializado de web scraping para sites governamentais brasileiros com extração de dados real",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 1020998334,
+    "repoName": "bot_bb_daf",
+    "url": "https://github.com/marcomprado/bot_bb_daf",
+    "stars": 0,
+    "description": "Sistema automatizado para extração de dados do Fundo de Participação dos Municípios (FPM) do Banco do Brasil, desenvolvido em Python com Selenium.",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": true
+  },
+  {
+    "id": 1019794366,
+    "repoName": "Bebrew",
+    "url": "https://github.com/marcomprado/Bebrew",
+    "stars": 0,
+    "description": "Sistema de controle e monitoramento para produção de bebidas fermentadas (cerveja, hidromel, vinho) com interface moderna e cálculos automatizados de ABV.",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 1000464469,
+    "repoName": "tetris_console",
+    "url": "https://github.com/marcomprado/tetris_console",
+    "stars": 0,
+    "description": "Este projeto é uma implementação do clássico jogo Tetris, desenvolvida como aplicação de console em C#, com foco didático no uso de multithreading. É parte da disciplina de Sistemas Operacionais da PUC Minas.",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
