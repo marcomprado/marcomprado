@@ -17,8 +17,6 @@
 </p>
 
 <p align="left">
-  <a href="http//my_email=marcomartipro@icloud.com" title="mail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="mail"/></a>
   <a href="https://www.linkedin.com/in/marcomartinelliprado/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/qr/2D5WQ2O37M5GP1" title="WhatsApp">
