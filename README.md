@@ -5,15 +5,7 @@
 </p>
 
 <p align="left">
-  👅 Linguagens: C#, Python, TS
-</p>
-
-<p align="left">
-  💼 Ferramentas: Working with vscode, in fedora, mac and windows !
-</p>
-
-<p align="left">
-  📨 Entre em contato comigo ! Atualmente procuro um estagio ou oportunidade de trabalhar com uma equipe : ⤵️
+  Entre em contato comigo ! Atualmente procuro um estagio ou oportunidade de trabalhar em equipe : ⤵️
 </p>
 
 <p align="left">
